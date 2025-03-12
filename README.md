@@ -63,4 +63,5 @@ Project Links:
 Dataset: Kaggle - [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 Live Dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/karankumar.hirapara/viz/Practicalskillsassessment_17301344048350/Dashboard1)
+![Screenshot 2024-10-28 185028](https://github.com/user-attachments/assets/ab38c902-2bdb-4ee4-8f73-025708fae0a4)
 
